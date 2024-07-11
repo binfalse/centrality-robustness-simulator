@@ -1,0 +1,9 @@
+venv
+processed
+*.pyc
+BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.215.tab3.csv
+CPDB_Yeast_PPI.csv
+iMM904-gemtracted-MetabolicNetwork.csv
+iMM904-gemtracted-ReactionNetwork.csv
+STRING-4932.protein.links.v11.5.txt
+YeastGRNNetwork.csv
